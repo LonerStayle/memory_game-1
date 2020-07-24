@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MemoryGame</string>
+  <string name="app_name">메모리게임</string>
+  <string name="navigation_button_go_to_game_setting" translatable="false">GameStart</string>
+  <string name="navigation_button_go_to_record" translatable="false">Record</string>
 </resources>

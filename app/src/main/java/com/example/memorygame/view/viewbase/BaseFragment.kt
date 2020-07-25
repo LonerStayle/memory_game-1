@@ -1,4 +1,4 @@
-package com.example.memorygame.base
+package com.example.memorygame.view.viewbase
 
 import android.os.Bundle
 import android.view.LayoutInflater

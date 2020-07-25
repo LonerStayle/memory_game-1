@@ -2,7 +2,7 @@ package com.example.memorygame.view.dest
 
 import android.view.animation.AnimationUtils
 import com.example.memorygame.R
-import com.example.memorygame.base.BaseFragment
+import com.example.memorygame.view.viewbase.BaseFragment
 import com.example.memorygame.databinding.FragmentMainBinding
 
 class MainFragment : BaseFragment<FragmentMainBinding>(R.layout.fragment_main) {

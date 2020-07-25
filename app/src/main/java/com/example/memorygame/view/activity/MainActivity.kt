@@ -1,4 +1,4 @@
-package com.example.memorygame.view
+package com.example.memorygame.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
